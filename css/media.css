@@ -6,15 +6,10 @@
         height: 70px;
     }
     .header .logo {
-        width: 147px;
+        width: 195px;
         height: auto;
     }
-    .header .logo .logo_pc {
-        display: block;
-    }
-    .header .logo .logo_mo {
-        display: none;
-    }
+
     .header .open_menu {
         width: 30px;
         margin-right: 18px;
@@ -76,6 +71,12 @@
         width: 234px;
         height: auto;
         margin : 0;
+    }
+    .header .logo .logo_mo {
+        display: none;
+    }
+    .header .logo .logo_pc {
+        display: block;
     }
     .open_menu {
         display: none;
