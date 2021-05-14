@@ -143,9 +143,9 @@ h2 {
 .btn_detail2 a{
     display: inline-block;
     padding : 1.7% 8%;
-    border : 2px solid #333;
+    border : 2px solid #121212;
     border-radius: 5px;
-    color : #000;
+    color : #121212;
     font-size: 15px;
 }
 .footer {
